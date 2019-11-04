@@ -1,0 +1,19 @@
+<h1>Data Binding in Angular</h1><br>
+
+<h1>{{title}}</h1>
+
+
+<h2>{{firstName}}</h2>
+<div>
+  <h2><span [innerHTML]='firstName'></span></h2>                
+</div>
+
+<h1 [style.color]="'grey'">Grey Heading</h1>
+<div [style.color]="'black'">Random Text</div>
+<input type="text" [(ngModel)] = 'val' />
+Enter the value  : <input [(ngModel)] ='val'> 
+               <br> 
+                Entered value is:  {{val}} 
+                Enter the value  : <input [ngModel] ='val'> 
+               <br> 
+                Entered value is:  {{val}} 
