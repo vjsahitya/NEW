@@ -1,0 +1,7 @@
+C:\Users\sahityan\source\repos\SOLID2\SOLID2\bin\Debug\SOLID2.exe.config
+C:\Users\sahityan\source\repos\SOLID2\SOLID2\bin\Debug\SOLID2.exe
+C:\Users\sahityan\source\repos\SOLID2\SOLID2\bin\Debug\SOLID2.pdb
+C:\Users\sahityan\source\repos\SOLID2\SOLID2\obj\Debug\SOLID2.csprojAssemblyReference.cache
+C:\Users\sahityan\source\repos\SOLID2\SOLID2\obj\Debug\SOLID2.csproj.CoreCompileInputs.cache
+C:\Users\sahityan\source\repos\SOLID2\SOLID2\obj\Debug\SOLID2.exe
+C:\Users\sahityan\source\repos\SOLID2\SOLID2\obj\Debug\SOLID2.pdb
